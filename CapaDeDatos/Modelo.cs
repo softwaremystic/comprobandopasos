@@ -47,7 +47,7 @@ namespace CapaDeDatos
         private void inicializarConexion()
         {
             this.IpBaseDeDatos = "127.0.0.1";
-            this.NombreBaseDeDatos = "pruebita";
+            this.NombreBaseDeDatos = "git";
             this.UsuarioBaseDeDatos = "root";
             this.PasswordBaseDeDatos = "root";
         }
